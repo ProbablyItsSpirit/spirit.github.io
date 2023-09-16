@@ -1,2 +1,2 @@
 # spirit.github.io
-All my social media links
+Development in progress
